@@ -1,0 +1,124 @@
+.container{
+	width:1140px;
+}
+.mainbox{
+	width: 1140px;
+background: #EAE3EE 0% 0% no-repeat padding-box;
+border-radius:5px;
+}
+
+.txt{
+	font-size: 18px;
+	font-weight: bold;
+	color: #1C1C1C;
+	margin-top: 15px;
+}
+.line{
+	width: 40px;
+border-bottom: 3px solid darkorange;
+}
+.box{
+	width:100%
+	display:flex;
+	padding: 10px 15px 10px 15px;
+}
+.text1{
+	color: #8D8D8D;
+	font-size: 11px;
+}
+.text2{
+	color: #231A3D;
+	font-size: 20px;
+	font-weight: bold;
+}
+.box1{
+	display: flex;
+}
+.form-group{
+	 width: 320px;
+margin-top:15px;
+}
+input.form-control{
+	border: hidden;
+	border-bottom:2px solid #E8E8E8;
+	border-radius:0;
+	padding-left: 0;
+	font-weight:500;
+}
+input.form-control::placeholder{ font-size:14px; color:#8D8D8D }
+.box3{
+	width: 1140px;
+height: 227px;
+padding: 10px 0 0 15px;
+background: var(--unnamed-color-f9f0de) 0% 0% no-repeat padding-box;
+background: #F9F0DE 0% 0% no-repeat padding-box;
+border-radius: 5px;
+}
+.cddetails{
+	font-size: 15px;
+	color: #1C1C1C;
+}
+.box4{
+	width: 820px;
+	display: flex;
+}
+.pv{
+	color: #1C1C1C;
+	font-size: 18px;
+	font-weight: bold;
+	margin-top: 50px;
+}
+label{
+	color: #8D8D8D;
+	font-size: 12px;
+	text-align: left;
+	margin-bottom: 0;
+}
+.bigline{
+	width: 1140px;
+border-bottom:1px solid lightgrey;
+margin: 50px 0 50px 0;
+}
+.box8{
+	width: 377px;
+height: 50px;
+display: flex;
+margin-left: 15px;
+
+}
+.save{
+	
+	width: 213px;
+height: 50px;
+/* UI Properties */
+background: var(--unnamed-color-4b006d) 0% 0% no-repeat padding-box;
+background: #4B006D 0% 0% no-repeat padding-box;
+box-shadow: 0px 2px 6px #4B006D33;
+border-radius: 5px;
+}
+.save button{
+	font-size: 14px;
+	color:#FFFFFF;
+}
+.all{
+	
+	width: 154px;
+height: 50px;
+margin-left: 10px;
+background: var(--unnamed-color-f4f4f4) 0% 0% no-repeat padding-box;
+background: #F4F4F4 0% 0% no-repeat padding-box;
+border-radius: 5px;
+}
+.all  button{
+	font-size: 14px;
+	color: #8D8D8D;
+}
+.form-check-input{
+	width: 18px;
+height: 18px;
+}
+.form-check{
+	display: flex;
+	padding-right: 10px;
+    
+}
